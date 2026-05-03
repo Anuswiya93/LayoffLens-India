@@ -1,0 +1,157 @@
+Nr,Company,Location_HQ,Region,USState,Country,Continent,Laid_Off,Date_layoffs,Percentage,Company_Size_before_Layoffs,Company_Size_after_layoffs,Industry,Stage,Money_Raised_in__mil,Year,latitude,longitude,company_type
+44,TravelTriangle,Gurugram,other,Haryana,India,Asia,250,2020-03-28,50.0,500.0,250.0,Travel,Series D,47.0,2020,28.4646148,77.0299194,Service
+47,FabHotels,New Delhi,other,Delhi,India,Asia,80,2020-03-30,20.0,400.0,320.0,Travel,Series B,48.0,2020,28.6138954,77.2090057,Service
+62,Acko,Mumbai,other,Maharashtra,India,Asia,45,2020-04-01,9.0,500.0,455.0,Finance,Unknown,143.0,2024,19.0785451,72.878176,Service
+79,Instamojo,Bengaluru,other,Karnataka,India,Asia,6,2020-04-02,6.0,100.0,94.0,Finance,Unknown,8.0,2020,12.98815675,77.62260004,Service
+123,Meesho,Bengaluru,other,Karnataka,India,Asia,200,2020-04-08,28.0,714.0,514.0,Retail,Series D,215.0,2020,12.98815675,77.62260004,Product
+157,Shop101,Mumbai,other,Maharashtra,India,Asia,200,2020-04-15,40.0,500.0,300.0,Retail,Series C,19.0,2020,19.0785451,72.878176,Service
+160,CleverTap,Mumbai,other,Maharashtra,India,Asia,60,2020-04-16,20.0,300.0,240.0,Marketing,Series C,76.0,2020,19.0785451,72.878176,Service
+184,Swiggy,Bengaluru,other,Karnataka,India,Asia,800,2020-04-21,9.2,8657.0,7857.0,Food,Series I,1600.0,2020,12.98815675,77.62260004,Product
+219,CureFit,Bengaluru,other,Karnataka,India,Asia,800,2020-05-04,16.0,5000.0,4200.0,Fitness,Series D,404.0,2020,12.98815675,77.62260004,Product
+252,Lendingkart,Ahmedabad,other,Gujarat,India,Asia,500,2020-05-15,50.0,1000.0,500.0,Finance,Unknown,200.0,2020,23.0216238,72.5797068,Service
+253,Zomato,Gurugram,other,Haryana,India,Asia,520,2020-05-15,13.0,4000.0,3480.0,Food,Series J,914.0,2020,28.4646148,77.0299194,Product
+254,Swiggy,Bengaluru,other,Karnataka,India,Asia,1100,2020-05-18,14.0,7857.0,6757.0,Food,Series I,1600.0,2020,12.98815675,77.62260004,Product
+256,WeWork,New Delhi,other,Delhi,India,Asia,100,2020-05-18,20.0,500.0,400.0,Real Estate,Series H,19500.0,2020,28.6138954,77.2090057,Service
+257,Livspace,Bengaluru,other,Karnataka,India,Asia,450,2020-05-19,15.0,3000.0,2550.0,Retail,Series D,157.0,2020,12.98815675,77.62260004,Service
+260,Ola,Bengaluru,other,Karnataka,India,Asia,1400,2020-05-20,35.0,4000.0,2600.0,Transportation,Series J,3800.0,2020,12.98815675,77.62260004,Product
+262,ShareChat,Bengaluru,other,Karnataka,India,Asia,101,2020-05-20,25.0,404.0,303.0,Marketing,Series D,222.0,2020,12.98815675,77.62260004,Product
+267,PickYourTrail,Chennai,other,Tamil Nadu,India,Asia,70,2020-05-21,35.0,200.0,130.0,Travel,Series A,3.0,2020,13.0836939,80.270186,Service
+269,Uber,Bengaluru,other,Karnataka,India,Asia,600,2020-05-26,23.0,2609.0,2009.0,Transportation,Post-IPO,24700.0,2020,12.98815675,77.62260004,Service
+272,BookMyShow,Mumbai,other,Maharashtra,India,Asia,270,2020-05-28,18.0,1500.0,1230.0,Consumer,Unknown,224.0,2020,19.0785451,72.878176,Service
+294,PaisaBazaar,Gurugram,other,Haryana,India,Asia,1500,2020-06-16,50.0,3000.0,1500.0,Finance,Series G,496.0,2020,28.4646148,77.0299194,Service
+297,Navi,Bengaluru,other,Karnataka,India,Asia,40,2020-06-17,25.0,160.0,120.0,Finance,Private Equity,582.0,2020,12.98815675,77.62260004,Service
+303,Bounce,Bengaluru,other,Karnataka,India,Asia,130,2020-06-29,22.0,591.0,461.0,Transportation,Series D,214.0,2020,12.98815675,77.62260004,Service
+312,Swiggy,Bengaluru,other,Karnataka,India,Asia,350,2020-07-27,5.0,7000.0,6650.0,Food,Series I,1600.0,2020,12.98815675,77.62260004,Product
+322,MakeMyTrip,New Delhi,other,Delhi,India,Asia,350,2020-08-31,10.0,3500.0,3150.0,Travel,Post-IPO,548.0,2020,28.6138954,77.2090057,Service
+338,Bounce,Bengaluru,other,Karnataka,India,Asia,200,2021-02-22,40.0,500.0,300.0,Transportation,Series D,214.0,2021,12.98815675,77.62260004,Service
+361,Trell,Bengaluru,other,Karnataka,India,Asia,300,2022-03-15,50.0,600.0,300.0,Retail,Series B,62.0,2022,12.98815675,77.62260004,Service
+367,Unacademy,Bengaluru,other,Karnataka,India,Asia,1000,2022-04-07,17.0,5882.0,4882.0,Education,Series H,838.0,2022,12.98815675,77.62260004,Product
+384,Vedantu,Bengaluru,other,Karnataka,India,Asia,200,2022-05-05,3.0,6667.0,6467.0,Education,Series E,292.0,2022,12.98815675,77.62260004,Service
+398,Vedantu,Bengaluru,other,Karnataka,India,Asia,424,2022-05-18,7.0,6057.0,5633.0,Education,Series E,292.0,2022,12.98815675,77.62260004,Service
+399,Cars24,Gurugram,other,Haryana,India,Asia,600,2022-05-19,6.0,10000.0,9400.0,Transportation,Series G,1300.0,2022,28.4646148,77.0299194,Service
+403,MFine,Bengaluru,other,Karnataka,India,Asia,600,2022-05-21,75.0,800.0,200.0,Healthcare,Series C,97.0,2022,12.98815675,77.62260004,Service
+417,FrontRow,Bengaluru,other,Karnataka,India,Asia,145,2022-05-27,30.0,483.0,338.0,Education,Series A,17.0,2022,12.98815675,77.62260004,Service
+419,Mobile Premier League,Bengaluru,other,Karnataka,India,Asia,100,2022-05-30,10.0,1000.0,900.0,Consumer,Series E,375.0,2022,12.98815675,77.62260004,Service
+429,Udayy,Gurugram,other,Haryana,India,Asia,100,2022-06-01,100.0,100.0,0.0,Education,Seed,2.0,2022,28.4646148,77.0299194,Service
+436,Yojak,Gurugram,other,Haryana,India,Asia,140,2022-06-02,50.0,280.0,140.0,Construction,Seed,3.0,2022,28.4646148,77.0299194,Service
+442,Rupeek,Bengaluru,other,Karnataka,India,Asia,180,2022-06-07,15.0,1200.0,1020.0,Finance,Unknown,172.0,2022,12.98815675,77.62260004,Service
+457,FarEye,New Delhi,other,Delhi,India,Asia,250,2022-06-10,30.0,833.0,583.0,Logistics,Series E,150.0,2022,28.6138954,77.2090057,Service
+463,Breathe,New Delhi,other,Delhi,India,Asia,50,2022-06-14,33.0,152.0,102.0,Healthcare,Series A,6.0,2022,28.6138954,77.2090057,Service
+480,Unacademy,Bengaluru,other,Karnataka,India,Asia,150,2022-06-18,3.0,5000.0,4850.0,Education,Series H,838.0,2022,12.98815675,77.62260004,Product
+482,CityMall,Gurugram,other,Haryana,India,Asia,191,2022-06-19,30.0,637.0,446.0,Retail,Series C,112.0,2022,28.4646148,77.0299194,Service
+483,Aqgromalin,Chennai,other,Tamil Nadu,India,Asia,80,2022-06-20,30.0,267.0,187.0,Food,Unknown,12.0,2022,13.0836939,80.270186,Service
+508,Udaan,Bengaluru,other,Karnataka,India,Asia,180,2022-06-27,4.0,4500.0,4320.0,Retail,Unknown,,2022,12.98815675,77.62260004,Service
+519,Oye Rickshaw,New Delhi,other,Delhi,India,Asia,40,2022-06-29,20.0,200.0,160.0,Transportation,Unknown,13.0,2022,28.6138954,77.2090057,Service
+525,Crejo.Fun,Bengaluru,other,Karnataka,India,Asia,170,2022-06-30,100.0,170.0,0.0,Education,Seed,3.0,2022,12.98815675,77.62260004,Service
+570,Bright Money,Bengaluru,other,Karnataka,India,Asia,100,2022-07-15,50.0,200.0,100.0,Finance,Series A,31.0,2022,12.98815675,77.62260004,Service
+621,LEAD,Mumbai,other,Maharashtra,India,Asia,80,2022-08-04,4.0,2000.0,1920.0,Education,Series E,166.0,2022,19.0785451,72.878176,Service
+696,Clear,Bengaluru,other,Karnataka,India,Asia,190,2022-09-16,20.0,950.0,760.0,Finance,Series C,140.0,2022,12.98815675,77.62260004,Service
+728,Byju's,Bengaluru,other,Karnataka,India,Asia,2500,2022-10-12,5.0,50000.0,47500.0,Education,Private Equity,,2022,12.98815675,77.62260004,Product
+729,FrontRow,Bengaluru,other,Karnataka,India,Asia,130,2022-10-12,75.0,173.0,43.0,Education,Series A,17.0,2022,12.98815675,77.62260004,Service
+743,Synapsica,New Delhi,other,Delhi,India,Asia,30,2022-10-21,30.0,100.0,70.0,Healthcare,Series A,4.0,2022,28.6138954,77.2090057,Service
+786,Unacademy,Bengaluru,other,Karnataka,India,Asia,350,2022-11-07,10.0,3500.0,3150.0,Education,Series H,838.0,2022,12.98815675,77.62260004,Product
+795,Plum,Bengaluru,other,Karnataka,India,Asia,36,2022-11-09,10.0,360.0,324.0,Healthcare,Series A,20.0,2022,12.98815675,77.62260004,Service
+836,Zomato,Gurugram,other,Haryana,India,Asia,100,2022-11-19,4.0,2500.0,2400.0,Food,Series J,914.0,2022,28.4646148,77.0299194,Product
+845,VerSe Innovation,Bengaluru,other,Karnataka,India,Asia,150,2022-11-25,5.0,3000.0,2850.0,Media,Series J,1700.0,2022,12.98815675,77.62260004,Service
+858,Teachmint,Bengaluru,other,Karnataka,India,Asia,45,2022-11-30,5.0,900.0,855.0,Education,Series B,118.0,2022,12.98815675,77.62260004,Service
+893,Swiggy,Bengaluru,other,Karnataka,India,Asia,250,2022-12-08,3.0,8333.0,8083.0,Food,Unknown,,2022,12.98815675,77.62260004,Product
+933,UpScalio,Gurugram,other,Haryana,India,Asia,25,2023-01-05,15.0,167.0,142.0,Retail,Series B,62.0,2023,28.4646148,77.0299194,Service
+934,Bounce,Bengaluru,other,Karnataka,India,Asia,40,2023-01-06,5.0,800.0,760.0,Transportation,Series D,214.0,2023,12.98815675,77.62260004,Service
+959,BharatAgri,Mumbai,other,Maharashtra,India,Asia,40,2023-01-15,43.0,93.0,53.0,Food,Series A,21.0,2023,19.0785451,72.878176,Service
+962,ShareChat,Bengaluru,other,Karnataka,India,Asia,500,2023-01-16,20.0,2500.0,2000.0,Consumer,Series H,1700.0,2023,12.98815675,77.62260004,Product
+965,Exotel,Bengaluru,other,Karnataka,India,Asia,142,2023-01-17,15.0,947.0,805.0,Support,Series D,87.0,2023,12.98815675,77.62260004,Service
+989,MediBuddy,Bengaluru,other,Karnataka,India,Asia,200,2023-01-20,8.0,2500.0,2300.0,Healthcare,Acquired,192.0,2023,12.98815675,77.62260004,Service
+990,Swiggy,Bengaluru,other,Karnataka,India,Asia,380,2023-01-20,6.0,6333.0,5953.0,Food,Unknown,,2023,12.98815675,77.62260004,Product
+1011,DealShare,Bengaluru,other,Karnataka,India,Asia,100,2023-01-27,6.0,1667.0,1567.0,Retail,Series E,390.0,2023,12.98815675,77.62260004,Service
+1041,Pocket Aces,Mumbai,other,Maharashtra,India,Asia,50,2023-02-06,25.0,200.0,150.0,Media,Unknown,19.0,2023,19.0785451,72.878176,Service
+1082,MyGate,Bengaluru,other,Karnataka,India,Asia,200,2023-02-20,30.0,667.0,467.0,Other,Series B,79.0,2023,12.98815675,77.62260004,Service
+1085,Polygon,Bengaluru,other,Karnataka,India,Asia,100,2023-02-21,20.0,500.0,400.0,Crypto,Unknown,451.0,2023,12.98815675,77.62260004,Service
+1101,Fittr,Pune,other,Maharashtra,India,Asia,30,2023-03-02,11.0,273.0,243.0,Fitness,Series A,13.0,2023,18.521428,73.8544541,Service
+1107,Pristyn Care,Gurugram,other,Haryana,India,Asia,300,2023-03-07,15.0,2000.0,1700.0,Healthcare,Series E,177.0,2023,28.4646148,77.0299194,Service
+1118,Dukaan,Bengaluru,other,Karnataka,India,Asia,56,2023-03-15,30.0,187.0,131.0,Retail,Series A,17.0,2023,12.98815675,77.62260004,Service
+1123,Livspace,Bengaluru,other,Karnataka,India,Asia,100,2023-03-17,2.0,5000.0,4900.0,Retail,Series F,431.0,2023,12.98815675,77.62260004,Service
+1127,Smallcase,Bengaluru,other,Karnataka,India,Asia,15,2023-03-21,4.0,375.0,360.0,Finance,Series C,62.0,2023,12.98815675,77.62260004,Service
+1138,FanClash,Gurugram,other,Haryana,India,Asia,100,2023-03-30,75.0,133.0,33.0,Consumer,Series B,50.0,2023,28.4646148,77.0299194,Service
+1147,Dunzo,Bengaluru,other,Karnataka,India,Asia,300,2023-04-05,30.0,1000.0,700.0,Food,Unknown,382.0,2023,12.98815675,77.62260004,Product
+1150,ZestMoney,Bengaluru,other,Karnataka,India,Asia,100,2023-04-07,20.0,500.0,400.0,Finance,Series C,120.0,2023,12.98815675,77.62260004,Service
+1151,Simpl,Bengaluru,other,Karnataka,India,Asia,150,2023-04-09,25.0,600.0,450.0,Finance,Series B,71.0,2023,12.98815675,77.62260004,Service
+1171,Koo,Bengaluru,other,Karnataka,India,Asia,78,2023-04-20,30.0,260.0,182.0,Consumer,Series B,50.0,2023,12.98815675,77.62260004,Service
+1185,Tickertape,Bengaluru,other,Karnataka,India,Asia,29,2023-04-27,29.0,100.0,71.0,Finance,Seed,5.0,2023,12.98815675,77.62260004,Service
+1201,Meesho,Bengaluru,other,Karnataka,India,Asia,251,2023-05-05,15.0,1673.0,1422.0,Retail,Series F,1100.0,2023,12.98815675,77.62260004,Product
+1211,Happay,Bengaluru,other,Karnataka,India,Asia,160,2023-05-12,35.0,457.0,297.0,Finance,Acquired,21.0,2023,12.98815675,77.62260004,Service
+1220,Airmeet,Bengaluru,other,Karnataka,India,Asia,75,2023-05-25,30.0,250.0,175.0,Marketing,Series B,50.0,2023,12.98815675,77.62260004,Service
+1251,FrontRow,Bengaluru,other,Karnataka,India,Asia,39,2023-06-15,90.0,43.0,4.0,Education,Series A,17.0,2023,12.98815675,77.62260004,Service
+1253,Mojocare,Bengaluru,other,Karnataka,India,Asia,170,2023-06-17,80.0,213.0,43.0,Healthcare,Series A,24.0,2023,12.98815675,77.62260004,Service
+1254,Chingari,Bengaluru,other,Karnataka,India,Asia,48,2023-06-19,20.0,240.0,192.0,Media,Unknown,88.0,2023,12.98815675,77.62260004,Service
+1271,FrontRow,Bengaluru,other,Karnataka,India,Asia,4,2023-07-10,100.0,4.0,0.0,Education,Series A,17.0,2023,12.98815675,77.62260004,Service
+1274,WayCool,Chennai,other,Tamil Nadu,India,Asia,300,2023-07-11,12.0,2500.0,2200.0,Food,Unknown,363.0,2023,13.0836939,80.270186,Service
+1288,Milkbasket,Gurugram,other,Haryana,India,Asia,400,2023-07-27,67.0,597.0,197.0,Food,Acquired,39.0,2023,28.4646148,77.0299194,Service
+1302,Spinny,Gurugram,other,Haryana,India,Asia,300,2023-08-02,5.0,6000.0,5700.0,Transportation,Series E,513.0,2023,28.4646148,77.0299194,Service
+1303,Tekion,Bengaluru,other,Karnataka,India,Asia,300,2023-08-02,10.0,3000.0,2700.0,Other,Series D,435.0,2023,12.98815675,77.62260004,Service
+1323,Kenko Health,Mumbai,other,Maharashtra,India,Asia,50,2023-08-30,20.0,250.0,200.0,Healthcare,Series A,14.0,2023,19.0785451,72.878176,Service
+1324,Omuni,Bengaluru,other,Karnataka,India,Asia,60,2023-08-30,35.0,171.0,111.0,Retail,Acquired,10.0,2023,12.98815675,77.62260004,Service
+1341,Dunzo,Bengaluru,other,Karnataka,India,Asia,150,2023-09-26,30.0,500.0,350.0,Food,Unknown,458.0,2023,12.98815675,77.62260004,Product
+1343,Fi.Money,Bengaluru,other,Karnataka,India,Asia,30,2023-09-27,10.0,300.0,270.0,Finance,Series C,137.0,2023,12.98815675,77.62260004,Service
+1374,Physics Wallah,Noida,other,Uttar Pradesh,India,Asia,120,2023-11-19,1.0,12000.0,11880.0,Education,Series A,100.0,2023,28.5706333,77.3272147,Service
+1378,Loco,Mumbai,other,Maharashtra,India,Asia,40,2023-11-30,36.0,111.0,71.0,Consumer,Acquired,52.0,2023,19.0785451,72.878176,Service
+1383,ZestMoney,Bengaluru,other,Karnataka,India,Asia,150,2023-12-05,100.0,150.0,0.0,Finance,Series C,120.0,2023,12.98815675,77.62260004,Service
+1413,Udaan,Bengaluru,other,Karnataka,India,Asia,100,2023-12-18,10.0,1000.0,900.0,Retail,Unknown,,2023,12.98815675,77.62260004,Service
+1417,ShareChat,Bengaluru,other,Karnataka,India,Asia,200,2023-12-20,15.0,1333.0,1133.0,Consumer,Series H,1700.0,2023,12.98815675,77.62260004,Product
+1421,Paytm,Noida,other,Uttar Pradesh,India,Asia,1000,2023-12-25,,,,Finance,Unknown,,2024,28.5706333,77.3272147,Product
+1438,Flipkart,Bengaluru,other,Karnataka,India,Asia,1100,2024-01-08,5.0,22000.0,20900.0,Retail,Acquired,13.0,2024,12.98815675,77.62260004,Product
+1474,Inmobi,Bengaluru,other,Karnataka,India,Asia,125,2024-01-11,5.0,2500.0,2375.0,Marketing,Unknown,320.0,2024,12.98815675,77.62260004,Service
+1502,Cure.fit,Bengaluru,other,Karnataka,India,Asia,120,2024-01-23,,,,Fitness,Series F,625.0,2024,12.98815675,77.62260004,Product
+1520,Swiggy,Bengaluru,other,Karnataka,India,Asia,400,2024-01-25,7.0,5714.0,5314.0,Food,Unknown,4.0,2024,12.98815675,77.62260004,Product
+1574,BlissClub,Bengaluru,other,Karnataka,India,Asia,21,2024-02-09,18.0,117.0,96.0,Retail,Series A,20.0,2024,12.98815675,77.62260004,Service
+1576,Licious,Bengaluru,other,Karnataka,India,Asia,80,2024-02-09,3.0,2667.0,2587.0,Food,Series F,490.0,2024,12.98815675,77.62260004,Service
+1587,Wint Wealth,Nashik,other,Maharashtra,India,Asia,19,2024-02-14,20.0,95.0,76.0,Finance,Series A,16.0,2024,20.0112475,73.7902364,Service
+1610,WayCool,Chennai,other,Tamil Nadu,India,Asia,70,2024-02-26,,,,Food,Unknown,363.0,2024,13.0836939,80.270186,Service
+1622,Pristyn Care,Gurugram,other,Haryana,India,Asia,120,2024-03-01,7.0,1714.0,1594.0,Healthcare,Series E,177.0,2024,28.4646148,77.0299194,Service
+1660,Byju's,Bengaluru,other,Karnataka,India,Asia,500,2024-04-02,3.0,16667.0,16167.0,Education,Private Equity,,2024,12.98815675,77.62260004,Product
+1675,Bolt.Earth,Bengaluru,other,Karnataka,India,Asia,70,2024-04-06,40.0,175.0,105.0,Software Development,Unknown,,2024,12.98815675,77.62260004,Service
+1683,Scaler,Bengaluru,other,Karnataka,India,Asia,150,2024-04-10,,,,Education,Series B,55.0,2024,12.98815675,77.62260004,Service
+1702,Good Glamm Group,New Delhi,other,Delhi,India,Asia,150,2024-04-18,15.0,1000.0,850.0,IT Services,Unknown,,2024,28.6138954,77.2090057,Service
+1706,The Good Glamour,New Delhi,other,Delhi,India,Asia,150,2024-04-18,15.0,1000.0,850.0,Retail,Unknown,180.0,2024,28.6138954,77.2090057,Service
+1721,HealthifyMe,Bengaluru,other,Karnataka,India,Asia,150,2024-04-27,27.0,556.0,406.0,Healthcare,Series D,130.0,2024,12.98815675,77.62260004,Service
+1725,Ola,Bengaluru,other,Karnataka,India,Asia,180,2024-04-29,10.0,1800.0,1620.0,Transportation,Series J,3800.0,2024,12.98815675,77.62260004,Product
+1748,PrepLadder,New Delhi,other,Delhi,India,Asia,145,2024-05-08,25.0,580.0,435.0,Education,Unknown,,2024,28.6138954,77.2090057,Service
+1749,Simpl,Bengaluru,other,Karnataka,India,Asia,100,2024-05-08,15.0,667.0,567.0,Finance,Series B,71.0,2024,12.98815675,77.62260004,Service
+1798,Simpl,Bengaluru,other,Karnataka,India,Asia,30,2024-06-07,,,,Finance,Series B,71.0,2024,12.98815675,77.62260004,Service
+1799,Kissflow,Chennai,other,Tamil Nadu,India,Asia,45,2024-06-10,11.0,409.0,364.0,SaaS,Unknown,,2024,13.0836939,80.270186,Service
+1800,Paytm,Noida,other,Uttar Pradesh,India,Asia,3500,2024-06-10,,,,Finance,Unknown,,2024,28.5706333,77.3272147,Product
+1869,Unacademy,Bengaluru,other,Karnataka,India,Asia,250,2024-07-02,,,,Education,Series H,838.0,2024,12.98815675,77.62260004,Product
+1895,WayCool,Chennai,other,Tamil Nadu,India,Asia,200,2024-07-26,,,,Food,Unknown,363.0,2024,13.0836939,80.270186,Service
+1896,Pocket FM,Bengaluru,other,Karnataka,India,Asia,200,2024-07-27,,,,Media,Series D,212.0,2024,12.98815675,77.62260004,Service
+1905,ShareChat,Bengaluru,other,Karnataka,India,Asia,30,2024-08-03,5.0,600.0,570.0,Marketing,Series D,222.0,2024,12.98815675,77.62260004,Product
+1950,Dunzo,Bengaluru,other,Karnataka,India,Asia,150,2024-08-31,75.0,200.0,50.0,Food,Unknown,458.0,2024,12.98815675,77.62260004,Product
+1951,Dozee,Bengaluru,other,Karnataka,India,Asia,40,2024-09-02,,,,Healthcare,Series A,26.0,2024,12.98815675,77.62260004,Service
+1967,Aakash,New Delhi,other,Delhi,India,Asia,80,2024-09-18,,,,Education,Acquired,,2024,28.6138954,77.2090057,Service
+1989,BeepKart,Bengaluru,other,Karnataka,India,Asia,130,2024-10-08,40.0,325.0,195.0,Retail,Series A,1.0,2024,12.98815675,77.62260004,Service
+2047,Kuku FM,Mumbai,other,Maharashtra,India,Asia,80,2024-11-14,,,,Media,Series C,71.0,2024,19.0785451,72.878176,Service
+2052,Ola Electric,Bengaluru,other,Karnataka,India,Asia,500,2024-11-22,,,,Transportation,Post-IPO,2.0,2024,12.98815675,77.62260004,Service
+2057,Klub,Bengaluru,other,Karnataka,India,Asia,60,2024-11-29,,,,Finance,Unknown,35.0,2024,12.98815675,77.62260004,Service
+2097,ShareChat,Bengaluru,other,Karnataka,India,Asia,27,2025-01-15,5.0,540.0,513.0,Marketing,Series D,222.0,2025,12.98815675,77.62260004,Product
+2100,Pocket FM,Bengaluru,other,Karnataka,India,Asia,75,2025-01-16,,,,Media,Series D,212.0,2025,12.98815675,77.62260004,Service
+2160,Ola Electric,Bengaluru,other,Karnataka,India,Asia,1000,2025-03-03,,,,Transportation,Post-IPO,1700.0,2025,12.98815675,77.62260004,Service
+2196,GupShup,Fremont,San Francisco Bay Area,California,India,North America,200,2025-04-25,,,,Other,Series F,484.0,2025,37.5482697,-121.988571,Service
+2197,Cars24,Gurugram,other,Haryana,India,Asia,200,2025-04-26,,,,Transportation,Series G,1300.0,2025,28.4646148,77.0299194,Service
+2201,Zopper,Noida,other,Uttar Pradesh,India,Asia,100,2025-04-27,,,,Finance,Series D,125.0,2025,28.5706333,77.3272147,Service
+2211,GenWise,New Delhi,other,Delhi,India,Asia,15,2025-05-05,20.0,75.0,60.0,Other,Seed,3.0,2025,28.6138954,77.2090057,Service
+2222,Otipy,New Delhi,other,Delhi,India,Asia,300,2025-05-23,100.0,300.0,0.0,Food,Series B,44.0,2025,28.6138954,77.2090057,Service
+2227,Cars24,Gurugram,other,Haryana,India,Asia,120,2025-05-27,,,,Transportation,Series G,1300.0,2025,28.4646148,77.0299194,Service
+2230,VerSe Innovation copy,Bengaluru,other,Karnataka,India,Asia,350,2025-05-28,,,,Media,Series J,1700.0,2025,12.98815675,77.62260004,Service
+2276,TCS,Mumbai,other,Maharashtra,India,Asia,12000,2025-07-27,2.0,600000.0,588000.0,IT Services and IT Consulting,,,2025,19.0785451,72.878176,Service
+2277,Krutrim,Bengaluru,other,Karnataka,India,Asia,100,2025-07-28,,,,AI. made in India. for the world.,,,2025,12.98815675,77.62260004,Service
+2295,Oracle,Bengaluru,other,Karnataka,India,Asia,3000,2025-08-22,,,,Cloud technology,,,2025,12.98815675,77.62260004,Service
+2299,Krutrim,Bengaluru,other,Karnataka,India,Asia,50,2025-09-01,,,,AI,,,2025,12.98815675,77.62260004,Service
+2300,Mobile Premier League,Bengaluru,other,Karnataka,India,Asia,300,2025-09-01,,,,Gaming,,,2025,12.98815675,77.62260004,Service
+2301,Games 24x7,Mumbai,other,Maharashtra,India,Asia,400,2025-09-01,,,,Gaming,,,2025,19.0785451,72.878176,Service
+2307,Head Digital Works,Hyderabad,other,Telangana,India,Asia,500,2025-09-04,,,,Online Gaming,,,2025,17.42124912,78.38876713,Service
+2309,Bobble AI,Gurugram,other,Haryana,India,Asia,50,2025-09-04,,,,Conversation Media Platform,,,2025,28.4646148,77.0299194,Service
+2318,Zupee,Gurugram,other,Haryana,India,Asia,170,2025-09-11,30.0,567.0,397.0,Entertainment Providers,,,2025,28.4646148,77.0299194,Service
+2328,Gameskraft,Bengaluru,other,Karnataka,India,Asia,120,2025-09-18,,,,Online gaming,,,2025,12.98815675,77.62260004,Service
+2332,Simpl,Bengaluru,other,Karnataka,India,Asia,80,2025-10-01,,,,Consumer Services,,,2025,12.98815675,77.62260004,Service
+2352,Zepto,Bengaluru,other,Karnataka,India,Asia,150,2025-10-29,,,,Technology. Information and Internet,,,2025,12.98815675,77.62260004,Service
+2359,Porter,Bengaluru,other,Karnataka,India,Asia,350,2025-11-04,18.0,1944.0,1594.0,Logistic,,,2025,12.98815675,77.62260004,Service
+2365,GamesKraft,Bengaluru,other,Karnataka,India,Asia,280,2025-11-10,,,,Online Gaming,,,2025,12.98815675,77.62260004,Service
+2391,TCS,Mumbai,other,Maharashtra,India,Asia,365,2025-12-01,,,,IT Services and IT Consulting,,,2025,19.0785451,72.878176,Service
